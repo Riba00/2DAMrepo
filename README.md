@@ -36,22 +36,22 @@
 <li><a href="https://amstronaut.onrender.com /">Producció</a></li>
 </ul>
 
-## **Joan Bayo Treballador**
+## **Joan Bayo Benito**
 ### Casteaching
 <ul>
-<li><a href="">Github</a></li>
-<li><a href="">Producció</a></li>
+<li><a href="https://github.com/JoanBayo/CasteachingBayo">Github</a></li>
+<li><a href="https://casteaching.joanbayo.me/">Producció</a></li>
 </ul>
 
 ### Casteaching Ionic
 <ul>
-<li><a href="">Github</a></li>
+<li><a href="https://github.com/JoanBayo/casteaching_ionic">Github</a></li>
 </ul>
 
 ### Joc Phaser3
 <ul>
-<li><a href="">Github</a></li>
-<li><a href="">Producció</a></li>
+<li><a href="https://github.com/JoanBayo/JocBayo">Github</a></li>
+<li><a href="https://joan-bayo.onrender.com/">Producció</a></li>
 </ul>
 
 ## **Jordi Riba Ferré**
